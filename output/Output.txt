@@ -1,0 +1,24 @@
+Input File : C:\FileSearch\input\BIPList1_WINDOWS.txt
+Output File: C:\FileSearch\output\Output.txt
+
+Total EGs Running: 5
+Total EGs Stopped: 4
+Total MessageFlows Running: 55
+Total MessageFlows Stopped: 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------
