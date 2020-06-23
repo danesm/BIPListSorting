@@ -1,4 +1,4 @@
-This tool is used to compare IIB BIP LIST files pre and post deployment mainly useful in z/OS, AIX environments. 
+# This tool is used to compare IIB BIP LIST files pre and post deployment mainly useful in z/OS, AIX environments. 
 Below is the instructions on how to use this tool. 
 
 
